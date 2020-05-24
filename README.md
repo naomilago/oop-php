@@ -7,7 +7,7 @@
 <br>
 
 <p align="center">
-  <img alt="Website image" src="./assets/img/result.png" width="100%">
+  <img alt="Website image" src="./assets/png/result.png" width="100%">
 </p>
 
 ## :computer: Technologies
