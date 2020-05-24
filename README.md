@@ -20,8 +20,7 @@ This project was developed with the following technologies:
 
 ## :octocat: Projects
 
-This repository was created for improving and fixing our knowledge about OOP using PHP. In the homepage, we can fill a form and send the data (using an object instance). [Check it out](https://abnerlago.com).
-
+<p>This repository was created for improving and fixing our knowledge about OOP using PHP. In the homepage, we can fill a form and send the data (using an object instance).</p>
 ---
 
 Made with :heartbeat: by [AbnerLago](https://www.abnerlago.com/) 
